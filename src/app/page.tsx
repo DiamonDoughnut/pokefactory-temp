@@ -14,7 +14,7 @@ export default function Home() {
         <Image
           className=""
           src="/Pokefactory_2_logo_amber.png"
-          alt="Next.js logo"
+          alt="Pokefactory Logo"
           width={360}
           height={360}
           priority
@@ -24,7 +24,7 @@ export default function Home() {
         <div className="flex gap-4 items-center flex-col w-full">
           <a
             className="rounded-ful min-w-48 max-w-48 rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+            href="https://discord.gg/r9nV8bF2CX"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,9 +39,10 @@ export default function Home() {
           </a>
           <a
             className="rounded-ful min-w-48 max-w-48 rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center gap-2 hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+            href=""
+            target=""
+            rel=""
+            
           >
             <Image
               className=""
