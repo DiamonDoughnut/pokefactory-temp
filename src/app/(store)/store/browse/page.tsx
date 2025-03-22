@@ -1,0 +1,1 @@
+//TODO - page with search and filter options to browse through paginated store items
